@@ -15,5 +15,5 @@ lines of code for better visualization and understanding.
 - Functional Code: The code used for object identification. 40%
 - Video: A video showing the system in operation. 40%
 4. Submission Platform:
-<p> All materials (process documentation, code, and video of the system functioning) must be uploaded to
-GitHub for evaluation. </p>
+<b>All materials (process documentation, code, and video of the system functioning) must be uploaded to
+GitHub for evaluation.</b>
