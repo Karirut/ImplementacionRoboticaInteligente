@@ -1,0 +1,7 @@
+![straight](https://github.com/Karirut/ImplementacionRoboticaInteligente/assets/89891435/ae9f8589-b7d9-44d7-87b7-2f1066d030ef)
+![stop](https://github.com/Karirut/ImplementacionRoboticaInteligente/assets/89891435/d9a90e58-cf57-4957-a871-4b863ba535f9)
+![giveaway](https://github.com/Karirut/ImplementacionRoboticaInteligente/assets/89891435/1bf747d5-0d13-45c3-bcf0-eefe8f2e030c)
+![turnright](https://github.com/Karirut/ImplementacionRoboticaInteligente/assets/89891435/d5ebcb20-2619-42ef-9a0e-fac971cb1ab0)
+![turnleft](https://github.com/Karirut/ImplementacionRoboticaInteligente/assets/89891435/930e68ac-3855-44d2-8c90-4d44f168a1c6)
+![turnaround](https://github.com/Karirut/ImplementacionRoboticaInteligente/assets/89891435/1b794391-4fff-4be1-beae-b7a80474d2de)
+![workinprogress](https://github.com/Karirut/ImplementacionRoboticaInteligente/assets/89891435/bd586d80-7dd5-4686-8123-a3370f831eff)
